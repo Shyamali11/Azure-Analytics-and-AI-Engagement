@@ -376,7 +376,7 @@ To give permissions for the Power BI reports to access the data sources:
 	
 	![Dataset.](media/power-bi-report-6.png)
 	
-10. **Click** on the Taxpayer Client Services Report.
+10. **Click** on the CDP Vision Report.
 
 11. **Expand** Data source credentials.
 
@@ -406,7 +406,7 @@ Follow these steps to create the Power BI dashboard:
 
       ![New Dashboard.](media/power-bi-report-10.png)
 
-19. **Name** the dashboard ‘Taxpayer Client Services Commissioner Dashboard Before’ and **click** “create”. 
+19. **Name** the dashboard ‘CEO Dashboard - May’ and **click** “create”. 
 
 20. This new dashboard will appear in the Content section (of the Power BI workspace). 
 	
@@ -426,11 +426,11 @@ Do the following to pin visuals to the dashboard you just created:
 
 23. In the “Content” section, there will be a list of all the published reports.
 
-24. **Click** on ‘Taxpayer Client Services Report’ Report.
+24. **Click** on ‘CDP Vision Report’ Report.
 
 	![Click on Report.](media/power-bi-report-14.png)
 	
-25. **Click** on ‘Pilar 4 A’ page.
+25. **Click** on ‘Pillar 1 May’ page.
 
 26. There you can see Before and After KPIs for using on the same Dashboard.
 
@@ -440,7 +440,7 @@ Do the following to pin visuals to the dashboard you just created:
 
 28. **Select** ‘Existing dashboard’ radio button. 
 
-29. From ‘select existing dashboard’ dropdown, **select** ‘Taxpayer Client Services Commissioner Dashboard Before’.
+29. From ‘select existing dashboard’ dropdown, **select** ‘CEO Dashboard - May’.
 
 30. **Click** ‘Pin’.
 
@@ -454,7 +454,7 @@ Do the following to pin visuals to the dashboard you just created:
 
 	![Select Workspace.](media/power-bi-report-18.png)
 	
-33. **Open** ‘Taxpayer Client Services Report’ report.
+33. **Open** ‘CDP Vision Report’ report.
 
 	![Select Workspace.](media/power-bi-report-19.png)
 	
@@ -468,13 +468,13 @@ Do the following to pin visuals to the dashboard you just created:
 
 	![Hover and Click.](media/power-bi-report-21.png)
 	
-37. Select the ‘Taxpayer Client Services Commissioner Dashboard Before’ from existing dashboard list and **click** on pin.
+37. Select the ‘CEO Dashboard - May’ from existing dashboard list and **click** on pin.
 
-38. Similarly pin rest of the images from Images of the  Taxpayer Client Services Report’ report.
+38. Similarly pin rest of the images from Images of the  CDP Vision Report’ report.
 	
 	![Select Dashboard and Click Pin.](media/power-bi-report-22.png)
 	
-39. **Go back** to the ‘Taxpayer Client Services Commissioner Dashboard Before’ dashboard.
+39. **Go back** to the ‘CEO Dashboard - May’ dashboard.
 
 	![Go back to Dashboard.](media/power-bi-report-23.png)
 	
@@ -498,7 +498,7 @@ To hide title and subtitle for all the images that you have pined above. Please 
 	
 	![Resize and Rearrange.](media/power-bi-report-26.png)
 	
-46. Similarly pin left image tiles from ‘page 1’ of chicklets report to the Taxpayer Client Services Commissioner Dashboard Before dashboard.
+46. Similarly pin left image tiles from ‘page 1’ of chicklets report to the CEO Dashboard - May dashboard.
 
 47. **Resize** and **rearrange** the left images tiles as shown in the screenshot. Resize the KPI tile to 1x2. Resize the Deep Dive to 1x4. Resize the logo to 1x1 size; resize other vertical tiles to 2x1 size.  
 
@@ -519,7 +519,7 @@ To hide title and subtitle for all the images that you have pined above. Please 
 
 	![Will see.](media/power-bi-report-30.png)
 	
-52. The Dashboard **Taxpayer Client Services Commissioner Dashboard Before** should finally look like this. Table in following row indicates which KPI’s need to be pinned from which report to achieve this final look.
+52. The Dashboard **CEO Dashboard - May** should finally look like this. Table in following row indicates which KPI’s need to be pinned from which report to achieve this final look.
 
 	![Final Look.](media/power-bi-report-31.png)
 	
@@ -531,7 +531,7 @@ To hide title and subtitle for all the images that you have pined above. Please 
 
 	![Final Look.](media/power-bi-report-32.png)
 	
-55. **Tax Collection Commissioner Before** should look like this. Following are the details of tiles for the same.
+55. **CEO Dashboard - May** should look like this. Following are the details of tiles for the same.
 
 	![Final Look.](media/power-bi-report-33.png)
 	
@@ -539,7 +539,7 @@ To hide title and subtitle for all the images that you have pined above. Please 
 
 	![Table.](media/power-bi-table-2.png)
 
-57. **Tax Collection Commissioner Mid** should look like this. Following are the details of tiles for the same.
+57. **CEO Dashboard - May** should look like this. Following are the details of tiles for the same.
 	
 	![Final Look.](media/power-bi-report-34.png)
 	
@@ -547,7 +547,7 @@ To hide title and subtitle for all the images that you have pined above. Please 
 
 	![Table.](media/power-bi-table-3.png)
 
-59. **Tax Collection Commissioner After** should look like this. Following are the details of tiles for the same.
+59. **CEO Dashboard - May** should look like this. Following are the details of tiles for the same.
 
 	![Final Look.](media/power-bi-report-35.png)
 	
@@ -555,7 +555,7 @@ To hide title and subtitle for all the images that you have pined above. Please 
 
 	![Table.](media/power-bi-table-4.png)
 
-61. **Taxpayer Client Services Commissioner After Dashboard** Dashboard should look like this. 
+61. **CEO Dashboard - May** Dashboard should look like this. 
 
 	![Final Look.](media/power-bi-report-36.png)
 	
